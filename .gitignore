@@ -1,1 +1,2 @@
-'# Ignore all txt file *.txt # Ignore node_modules (if using npm)node_modules/# Ignore log files*.log' 
+# Ignore all txt file 
+*.txt
